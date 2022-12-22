@@ -1,0 +1,26 @@
+  502  cd onedrive/boot_camp/challenges/module_21_challenge
+  503  git clone git@github.com:lydiaciummo/fungible-token-crowdsale.git
+  504  cd fungible-token-crowdsale
+  505  git status
+  506  git add .gitignore
+  507  git add KaseiCoin.sol
+  508  git add KaseiCoinCrowdsale.solk
+  509  git add KaseiCoinCrowdsale.sol
+  510  git stauts
+  511  git status
+  512  git commit -m"Added starter code and gitignore
+  513  git commit -m"Added starter code and gitignore"
+  514  git push
+  515  git status
+  516  git add images/
+  517  git add KaseiCoin.sol
+  518  git add KaseiCoinCrowdsale.sol
+  519  git statua
+  520  git status
+  521  git commit -m"Edited comments for the contracts and added images for the readme"
+  522  git push
+  523  git status
+  524  git add README.md
+  525  git add images/buyTokens.gif
+  526  git status
+  527  history 50 > terminal_history.txt
